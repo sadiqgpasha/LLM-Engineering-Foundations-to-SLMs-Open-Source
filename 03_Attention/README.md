@@ -9,7 +9,7 @@
 
 | 📰 Session Sheet | 📽️ YouTube Video  | 🖼️ Slides      | 👨‍💻 Repo         |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 3: Attention](https://www.notion.so/Session-3-Attention-1a7cd547af3d808fae58ed6252cc3e7f) | [03: Attention & Flash Attention](https://www.youtube.com/watch?v=cE5E1m1cSAU&ab_channel=AIMakerspace) |  [Session 3: Attention & Flash Attention](https://www.canva.com/design/DAGXJDsxuyI/TO3MaXqimiS-MjbR8-qm3g/view?utm_content=DAGXJDsxuyI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbdbc7bdd9d) | [03_Attention](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs-Open-Source/tree/main/03_Attention)
+| [Session 3: Attention](https://www.notion.so/Session-3-Attention-1a7cd547af3d808fae58ed6252cc3e7f) | [03: Attention & Flash Attention](https://www.youtube.com/watch?v=cE5E1m1cSAU&ab_channel=AIMakerspace) |  [Session 3: Attention & Flash Attention](https://www.canva.com/design/DAGXJDsxuyI/TO3MaXqimiS-MjbR8-qm3g/view?utm_content=DAGXJDsxuyI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbdbc7bdd9d) | You Are Here!
 ### Assignment:
 
 Today's assignment is available in Colab:
