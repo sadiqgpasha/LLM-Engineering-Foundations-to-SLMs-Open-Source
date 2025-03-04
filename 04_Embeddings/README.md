@@ -6,10 +6,9 @@
 <h1 align="center" id="heading">🔠 Session 4: Embeddings</h1>
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
-
-| 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 4: Pre-Work](https://www.notion.so/Session-4-Embeddings-143cd547af3d806f9b38fdaefba8e68d?pvs=4#a10ad6fa7a0a4342b51ea53fd486279f) | [Session 4: Embeddings](https://www.notion.so/Session-4-Embeddings-143cd547af3d806f9b38fdaefba8e68d#59fa9ae8a94141e3a66db9a5f90d5e40) | [Recording](https://us02web.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=us02&componentName=need-password&meetingId=qQcQrZ1gHOmAvH5ZTLZsHpHb_3-ALuGQDcN9x8_wBpM7Lg-cccDNhQjWojtF0c8i.g-cVP6cDb9jwzw1O&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FcFies5mcI27ZsFHfHe5G6d5VMwM1qn2eB_vusY8gqDi6xGiilZKdhWZfefHYsVKU.gRLXvD9KdyhmjFA4) (xv94.!HO) | [Session 4: Embeddings](https://www.canva.com/design/DAGXnKDginc/-g-2FCMJKDr2yhmUuuvVqg/view?utm_content=DAGXnKDginc&utm_campaign=designshare&utm_medium=link&utm_source=editor)  |  You are here!| [Session 4 Assignment: Embeddings](https://forms.gle/WasbnoXXFEt8tUCb9) | [Feedback: LLME3 Cohort, Session 4](https://forms.gle/fmDsEj6J423y4BgSA)  |
+| 📰 Session Sheet | 📽️ YouTube Video  | 🖼️ Slides      | 👨‍💻 Repo         |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| [Session 4: Embeddings](https://www.notion.so/Session-4-Embeddings-1a7cd547af3d80669ea0e47ff2a142f9) | [04: Embeddings](https://www.youtube.com/watch?v=XMJzqxElhfY&ab_channel=AIMakerspace) |  [Session 4: Embeddings](https://www.canva.com/design/DAGXnKDginc/-g-2FCMJKDr2yhmUuuvVqg/view?utm_content=DAGXnKDginc&utm_campaign=designshare&utm_medium=link&utm_source=editor) | [04_Embeddings](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs-Open-Source/tree/main/04_Embeddings)
 
 ### Assignment
 
