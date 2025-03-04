@@ -7,10 +7,9 @@
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
 
-| 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 7: Pre-Work](https://www.notion.so/Session-7-Fine-Tuning-Coming-Soon-143cd547af3d80a9af10fade95ad3a20?pvs=4#d21a3fa3f2684b4db256c708336c6712) | [Session 7: Fine-Tuning](https://www.notion.so/Session-7-Fine-Tuning-Coming-Soon-143cd547af3d80a9af10fade95ad3a20) |  [Recording](https://us02web.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=us02&componentName=need-password&meetingId=-n2vdN6PWvEgNdydcp_6WCIAXZRRq5gOCCFDwuo3t_rLbd2Zff_pCBkxdRDwn7Ok.hsgair8mCe2uMpJF&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FoZp_0ZXoeaJlgy37hD1mgPQPZlfyPFRrn7fKaGMyChUiHVlK74cyae-wF95zmv5v.bqKOThUv5gRQoyKd)  (G25yk@E0) | [Session 7: Fine-Tuning](https://www.canva.com/design/DAGY7ZxFsRU/-pDrpf61S1_c60nC1ufwnQ/edit?utm_content=DAGY7ZxFsRU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You Are Here!  | [Session 7 Assignment: Fine-Tuning](https://forms.gle/oiyErT4ZZgkm6gfN6) |  [Feedback: LLME3 Cohort, Session 7](https://forms.gle/6MvFhqA29L3FAsbY8) |
-
+| 📰 Session Sheet | 📽️ YouTube Video  | 🖼️ Slides      | 👨‍💻 Repo         |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| [Session 7: Fine-Tuning ](https://www.notion.so/Session-7-Fine-Tuning-1a7cd547af3d80e3adedd44ef63ac992) | [07: Fine-Tuning](https://www.youtube.com/watch?v=ELu2dy2Iccs&ab_channel=AIMakerspace) |  [Session 7: Fine-Tuning](https://www.canva.com/design/DAGY7ZxFsRU/wzpT21_Ub_a3RAo3-HVvPQ/view?utm_content=DAGY7ZxFsRU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcadf98dde7) | You Are Here! | 
 
 ### Assignment: 
 
