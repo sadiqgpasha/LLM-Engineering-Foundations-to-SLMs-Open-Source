@@ -7,9 +7,9 @@
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
 
-| 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 8: Pre-Work](https://www.notion.so/Session-8-Alignment-Coming-Soon-143cd547af3d8020820ac4f21a3068b5?pvs=4#e80e2e6ae82d4540adba08edd1a3b6bc) | [Session 8: Alignment ](https://www.notion.so/Session-8-Alignment-Coming-Soon-143cd547af3d8020820ac4f21a3068b5)  | [Recording](https://us02web.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=us02&componentName=need-password&meetingId=QgYwwcLgQw0BmGvfhqApshe98YthoS29agneJ7OuNHA_z2313ckTPOhat9dmVRn8.FjPE-Av5ynfnUqq2&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FTrI1KuJU1kdifoqqUolquGOd9MzZR_fUecv1sSixWQ1FLBNhN06GjVy0DoFcKmee.v-zCG-BnqMWoJcom)  (V6IC2$*#)  |  [Session 8: Alignment](https://www.canva.com/design/DAGZHXVSNBE/ONsOxzgCW8Pqj5YFHfvP2Q/edit?utm_content=DAGZHXVSNBE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  | You Are Here!  | [Session 8 Assignment: Alignment](https://forms.gle/g2kad4tuPEkzcWSW6) |  [Feedback: LLME3 Cohort, Session 8](https://forms.gle/aKRjP61cWuyoWRiD7) |
+| 📰 Session Sheet | 📽️ YouTube Video  | 🖼️ Slides      | 👨‍💻 Repo         |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| [Session 8: Alignment](https://www.notion.so/Session-8-Alignment-1a7cd547af3d800ab391dd8f2ceb9329) | [08: Alignment ](https://www.youtube.com/watch?v=4ehPGFIf91o&ab_channel=AIMakerspace) |  [Session 8: Alignment](https://www.canva.com/design/DAGZHXVSNBE/OHkXXiAmsfSXwHL1r2P0bw/view?utm_content=DAGZHXVSNBE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h59157a8ad7) |You Are Here! |
 
 ### Assignment: 
 
