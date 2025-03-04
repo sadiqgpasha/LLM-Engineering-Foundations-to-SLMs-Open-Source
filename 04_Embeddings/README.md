@@ -8,7 +8,7 @@
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
 | 📰 Session Sheet | 📽️ YouTube Video  | 🖼️ Slides      | 👨‍💻 Repo         |
 |:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 4: Embeddings](https://www.notion.so/Session-4-Embeddings-1a7cd547af3d80669ea0e47ff2a142f9) | [04: Embeddings](https://www.youtube.com/watch?v=XMJzqxElhfY&ab_channel=AIMakerspace) |  [Session 4: Embeddings](https://www.canva.com/design/DAGXnKDginc/-g-2FCMJKDr2yhmUuuvVqg/view?utm_content=DAGXnKDginc&utm_campaign=designshare&utm_medium=link&utm_source=editor) | [04_Embeddings](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs-Open-Source/tree/main/04_Embeddings)
+| [Session 4: Embeddings](https://www.notion.so/Session-4-Embeddings-1a7cd547af3d80669ea0e47ff2a142f9) | [04: Embeddings](https://www.youtube.com/watch?v=XMJzqxElhfY&ab_channel=AIMakerspace) |  [Session 4: Embeddings](https://www.canva.com/design/DAGXnKDginc/-g-2FCMJKDr2yhmUuuvVqg/view?utm_content=DAGXnKDginc&utm_campaign=designshare&utm_medium=link&utm_source=editor) | You Are Here! 
 
 ### Assignment
 
