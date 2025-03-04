@@ -9,7 +9,7 @@
 
 | 📰 Session Sheet | 📽️ YouTube Video  | 🖼️ Slides      | 👨‍💻 Repo         |
 |:-----------------|:-----------------|:-----------------|:-----------------|
- | [Session 2: The Transformer](https://www.notion.so/Session-2-The-Transformer-1a7cd547af3d80079041d5112fb052a8) | [02: The Transformer](https://www.youtube.com/watch?v=LYODbG3X4oI&ab_channel=AIMakerspace) |  [Session 2: The Transformer](https://www.canva.com/design/DAGW9drJwtU/d5pIdoSDGNoTHppA3i9Crg/view?utm_content=DAGW9drJwtU&utm_campaign=designshare&utm_medium=link&utm_source=editor) | [02_The_Transformer](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs-Open-Source/tree/main/02_The_Transformer)
+ | [Session 2: The Transformer](https://www.notion.so/Session-2-The-Transformer-1a7cd547af3d80079041d5112fb052a8) | [02: The Transformer](https://www.youtube.com/watch?v=LYODbG3X4oI&ab_channel=AIMakerspace) |  [Session 2: The Transformer](https://www.canva.com/design/DAGW9drJwtU/d5pIdoSDGNoTHppA3i9Crg/view?utm_content=DAGW9drJwtU&utm_campaign=designshare&utm_medium=link&utm_source=editor) | You Are Here! 
 
 ## A Note on How AIM Does Assignments:
 
