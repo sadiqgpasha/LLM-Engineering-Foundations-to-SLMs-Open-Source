@@ -7,9 +7,9 @@
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
 
-| 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 1: Pre-Work](https://www.notion.so/Session-1-Cohort-Kickoff-Overview-and-Intro-to-LLM-Engineering-143cd547af3d80c09539cd8ea855bfc7?pvs=4#143cd547af3d810c8280cfdf6efb6ff4)| [Session 1: Cohort Kickoff: Overview and Intro to LLM Engineering](https://www.notion.so/Session-1-Cohort-Kickoff-Overview-Intro-to-LLM-Engineering-Foundations-to-SLMs-143cd547af3d80c09539cd8ea855bfc7) | [Recording](https://us02web.zoom.us/rec/share/9My2ifxlU7WPK5kzKLxceg5WqrbaaNksN8CWPVpMSkkhLCLQGszGndlJeTM-fLFw.a4Y9iz9eFlEzMzTe) (pT$c3fCy) | [Session 1: Introduction to LLM Engineering](https://www.canva.com/design/DAGWfLzJLjU/jcP2nnJIUozdxw47M56SIA/edit?utm_content=DAGWfLzJLjU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | Read [Attention is All You Need](https://arxiv.org/abs/1706.03762)  <br /> Review [The Transformer, Part I-IV](https://www.notion.so/The-Transformer-Part-I-IV-143cd547af3d814195fff9338a46de63)| [LLME3 Class Feedback 11/14](https://forms.gle/69kucYTEbdgLXTR29) |
+| 📰 Session Sheet | 📽️ YouTube Video  | 🖼️ Slides      | 👨‍💻 Repo         |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+ | [Session 1: Overview and Intro to LLM Engineering](https://www.notion.so/Session-1-Overview-and-Intro-to-LLM-Engineering-1a7cd547af3d80149a20d822bd0a9280) | [01: Introduction to LLM Engineering](https://www.youtube.com/watch?v=xgcPRrq6NBw&ab_channel=AIMakerspace) |  [Session 1: Introduction to LLM Engineering](https://www.canva.com/design/DAGWfLzJLjU/q_swsY0ng_NRpXA-ckn26Q/view?utm_content=DAGWfLzJLjU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hea55fde063) | You Are Here! |
 
 ## Assignment
 

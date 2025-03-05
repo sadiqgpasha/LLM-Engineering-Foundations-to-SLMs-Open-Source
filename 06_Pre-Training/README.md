@@ -7,10 +7,9 @@
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
 
-| 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Session 6: Pre-Work](https://www.notion.so/Session-6-Pretraining-Coming-Soon-143cd547af3d80d68209d741df67fd17?pvs=4#bae245a8e85a4c7e931fd82086e895b5) | [Session 6: pre-training](https://www.notion.so/Session-6-Pretraining-Coming-Soon-143cd547af3d80d68209d741df67fd17) | [Recording](https://us02web.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=us02&componentName=need-password&meetingId=k4hY5uqCAfi5jUDW60Yfy22_FiOLGR311BVP_nilkrGBaNSJOnk8Cd4Q5TI9wSwb.TfMbhnUfIyvnSBxc&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2F880WdZymEzPE_G3D7xMTDjbpsJkBOdCcnBaHz_YrKVeh3vkU-nTuURX94Pop-KM0.ldamBpQtY_6rELIB) (N4R3#^Af) | [Session 6: pre-training](https://www.canva.com/design/DAGYdUqfwVg/XEzwQ_22rfoSNAWowsQR1g/edit) | [Session 6: pre-training](https://www.canva.com/design/DAGYdUqfwVg/XEzwQ_22rfoSNAWowsQR1g/edit)  | You Are Here! | [Session 6 Assignment: Pre-training](https://forms.gle/ZhEpfYomrRTX6htFA) |  [Feedback: LLME3 Cohort, Session 6](https://forms.gle/5QbKz9PKbdxDiqAS7) |
-
+| 📰 Session Sheet | 📽️ YouTube Video  | 🖼️ Slides      | 👨‍💻 Repo         |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| [Session 6: Pretraining](https://www.notion.so/Session-6-Pretraining-1a7cd547af3d80fbaba5decb2ee8616b) | [06: Pretraining](https://www.youtube.com/watch?v=zU5iIAsqJVU&ab_channel=AIMakerspace) |  [Session 6: Pretraining](https://www.canva.com/design/DAGYdUqfwVg/l_9JK-h7dgvP4bseYdzwaQ/view?utm_content=DAGYdUqfwVg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c74da65a4) | You Are Here! |
 
 ### Assignment: 
 

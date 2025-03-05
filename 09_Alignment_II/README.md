@@ -7,9 +7,9 @@
 
 ### [Quicklinks](https://github.com/AI-Maker-Space/LLM-Engineering-Foundations-to-SLMs/tree/main/00_AIM_Quicklinks)
 
-| 🤓 Pre-work | 📰 Session Sheet | ⏺️ Recording     | 🖼️ Slides        | 👨‍💻 Repo         | 📝 Homework      | 📁 Feedback       |
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| |  |   |  | You Are Here!  | |  |
+| 📰 Session Sheet | 📽️ YouTube Video  | 🖼️ Slides      | 👨‍💻 Repo         |
+|:-----------------|:-----------------|:-----------------|:-----------------|
+| [Session 9: Alignment II and Merging](https://www.notion.so/Session-9-Alignment-II-and-Merging-1a7cd547af3d805ca7bae487d35073a5) | [09: Alignment II & Merging](https://www.youtube.com/watch?v=VzTujojD1ho&ab_channel=AIMakerspace) |  [Session 9: Alignment II & Merging](https://www.canva.com/design/DAGZlbhGppY/Lmr8nwEG4T5p8vsY3pqOmw/view?utm_content=DAGZlbhGppY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h580ea460bf) | You Are Here! | 
 
 ### Assignment: 
 
